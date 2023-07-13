@@ -1,9 +1,9 @@
 1.Run on local machine
 '''
-pip install -r req.txt
+pip install -r requirenments.txt
 '''
 2.after installing all the dependencies, run the following command in terminal
 
 '''
-streamlit rum app.py
+streamlit run app.py
 '''
